@@ -9,10 +9,13 @@ Developed an interactive Jupyter Notebook dashboard. Identified key variables in
 Dashboard Highlights Interactivity: 
 Dynamically navigate the dataset with interactive widgets. Set parameters to visualize employee attrition under different scenarios.
 
-Dataset The Kaggle dataset provides insights into various factors affecting employee behavior, including job satisfaction, work-life balance, and job involvement.
+Dataset:
+The Kaggle dataset provides insights into various factors affecting employee behavior, including job satisfaction, work-life balance, and job involvement.
 
-Technologies Python for data analysis and visualization. SQLite3 for efficient data manipulation. Jupyter Notebook as the primary development environment.
+Technologies:
+Python for data analysis and visualization. SQLite3 for efficient data manipulation. Jupyter Notebook as the primary development environment.
 
-Usage Could you clone the repository to your local machine? Open the Jupyter Notebook to explore, clean, and analyze the dataset. Interact with the dashboard to visualize and predict employee attrition based on different parameters.
+Usage 
+Could you clone the repository to your local machine? Open the Jupyter Notebook to explore, clean, and analyze the dataset. Interact with the dashboard to visualize and predict employee attrition based on different parameters.
 
 Contributions and feedback are welcome! Submit issues or pull requests for collaboration.

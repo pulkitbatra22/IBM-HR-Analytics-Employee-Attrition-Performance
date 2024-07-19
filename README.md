@@ -15,7 +15,7 @@ The Kaggle dataset provides insights into various factors affecting employee beh
 Technologies:
 Python for data analysis and visualization. SQLite3 for efficient data manipulation. Jupyter Notebook as the primary development environment.
 
-Usage 
+Usage:
 Could you clone the repository to your local machine? Open the Jupyter Notebook to explore, clean, and analyze the dataset. Interact with the dashboard to visualize and predict employee attrition based on different parameters.
 
 Contributions and feedback are welcome! Submit issues or pull requests for collaboration.
